@@ -1,4 +1,4 @@
-#Hand-Gesture-Dataset
+# Hand-Gesture-Dataset
 A clean, structured, and comprehensive dataset of hand gestures optimized for computer vision, sign language recognition, and machine learning models.
 
 ## 🚀 Features
